@@ -2047,4 +2047,4 @@ def ask_llm_page():
                 'Always consult with a qualified healthcare professional for medical advice, diagnosis, or treatment.'
             ).classes('text-xs text-gray-500 text-center mt-6')
             
-ui.run(reload=False)
+ui.run(host='0.0.0.0', port=8080)
