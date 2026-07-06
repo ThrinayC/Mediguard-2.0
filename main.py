@@ -65,6 +65,7 @@ ui.add_head_html("""
     font-weight: 500;
 }
 
+
 .nav-link::after {
     content: '';
     position: absolute;
