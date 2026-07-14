@@ -48,9 +48,11 @@ html, body, .q-page {
 /* remove default white panels */
 .q-page-container,
 .q-tab-panels,
+
 .q-tab-panel {
     background: transparent !important;
 }
+
 </style>
 """ , shared=True)
 
